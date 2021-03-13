@@ -1,0 +1,9 @@
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/libov_msckf_lib.so
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/pkgconfig/ov_msckf.pc
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_msckf/run_serial_msckf
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_msckf/run_subscribe_msckf
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_msckf/test_sim_meas
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_msckf/run_simulation
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_msckf/test_sim_repeat
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/share/ov_msckf/cmake/ov_msckfConfig-version.cmake
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/share/ov_msckf/cmake/ov_msckfConfig.cmake

@@ -1,0 +1,8 @@
+[33m[1mCMake Warning[0m at /home/jeong/workspace/catkin_ws_ov/src/open_vins/ov_msckf/CMakeLists.txt:22 (message):
+  OPENCV VERSION: 3.4.0
+
+
+[33m[1mCMake Warning[0m at /home/jeong/workspace/catkin_ws_ov/src/open_vins/ov_msckf/CMakeLists.txt:23 (message):
+  BOOST VERSION: 106501
+
+

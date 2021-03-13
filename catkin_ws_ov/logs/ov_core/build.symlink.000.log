@@ -1,0 +1,6 @@
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/libov_core_lib.so
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/pkgconfig/ov_core.pc
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_core/test_webcam
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/lib/ov_core/test_tracking
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/share/ov_core/cmake/ov_coreConfig.cmake
+Symlinking /home/jeong/workspace/catkin_ws_ov/devel/share/ov_core/cmake/ov_coreConfig-version.cmake

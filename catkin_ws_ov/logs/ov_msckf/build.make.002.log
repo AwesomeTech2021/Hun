@@ -1,0 +1,6 @@
+[ 52%] Built target ov_msckf_lib
+[ 61%] Built target test_sim_repeat
+[ 71%] Built target run_serial_msckf
+[ 80%] Built target test_sim_meas
+[ 90%] Built target run_simulation
+[100%] Built target run_subscribe_msckf

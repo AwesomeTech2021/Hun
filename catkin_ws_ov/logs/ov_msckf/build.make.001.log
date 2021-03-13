@@ -1,0 +1,17 @@
+[  4%] [32m[1mLinking CXX shared library /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/libov_msckf_lib.so[0m
+[ 52%] Built target ov_msckf_lib
+[ 57%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/ov_msckf/test_sim_meas[0m
+[ 61%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/ov_msckf/test_sim_repeat[0m
+[ 66%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/ov_msckf/run_simulation[0m
+[ 71%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/ov_msckf/run_subscribe_msckf[0m
+[ 76%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_msckf/lib/ov_msckf/run_serial_msckf[0m
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_aruco.so.3.4.0, may conflict with libopencv_core.so.3.2
+[ 80%] Built target test_sim_repeat
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_aruco.so.3.4.0, may conflict with libopencv_core.so.3.2
+[ 85%] Built target test_sim_meas
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_aruco.so.3.4.0, may conflict with libopencv_core.so.3.2
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_aruco.so.3.4.0, may conflict with libopencv_core.so.3.2
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_aruco.so.3.4.0, may conflict with libopencv_core.so.3.2
+[ 90%] Built target run_subscribe_msckf
+[ 95%] Built target run_simulation
+[100%] Built target run_serial_msckf

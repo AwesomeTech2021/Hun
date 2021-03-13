@@ -1,0 +1,6 @@
+devel_space: /home/jeong/workspace/catkin_ws_ov/devel
+install: false
+install_space: /home/jeong/workspace/catkin_ws_ov/install
+profile: default
+source_space: /home/jeong/workspace/catkin_ws_ov/src
+workspace: /home/jeong/workspace/catkin_ws_ov

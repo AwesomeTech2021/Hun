@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_core/setup.sh

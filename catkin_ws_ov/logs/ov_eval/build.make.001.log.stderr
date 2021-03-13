@@ -1,0 +1,9 @@
+In file included from [01m[K/home/jeong/workspace/catkin_ws_ov/src/open_vins/ov_eval/src/pose_to_file.cpp:30:0[m[K:
+[01m[K/home/jeong/workspace/catkin_ws_ov/src/open_vins/ov_eval/src/utils/Recorder.h:[m[K In member function ‘[01m[Kvoid ov_eval::Recorder::write()[m[K’:
+[01m[K/home/jeong/workspace/catkin_ws_ov/src/open_vins/ov_eval/src/utils/Recorder.h:157:15:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[K{[m[K’ token
+             if[01;31m[K{[m[K
+               [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/pose_to_file.dir/src/pose_to_file.cpp.o] Error 1
+make[1]: *** [CMakeFiles/pose_to_file.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

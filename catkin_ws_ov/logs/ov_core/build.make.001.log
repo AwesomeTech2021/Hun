@@ -1,0 +1,11 @@
+[  6%] [32m[1mLinking CXX shared library /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_core/lib/libov_core_lib.so[0m
+[ 75%] Built target ov_core_lib
+[ 81%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_core/lib/ov_core/test_webcam[0m
+[ 87%] [32m[1mLinking CXX executable /home/jeong/workspace/catkin_ws_ov/devel/.private/ov_core/lib/ov_core/test_tracking[0m
+/usr/bin/ld: warning: libopencv_imgproc.so.3.4, needed by /usr/local/lib/libopencv_calib3d.so.3.4.0, may conflict with libopencv_imgproc.so.3.2
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_calib3d.so.3.4.0, may conflict with libopencv_core.so.3.2
+[ 93%] Built target test_tracking
+/usr/bin/ld: warning: libopencv_imgproc.so.3.4, needed by /usr/local/lib/libopencv_calib3d.so.3.4.0, may conflict with libopencv_imgproc.so.3.2
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /usr/local/lib/libopencv_calib3d.so.3.4.0, may conflict with libopencv_core.so.3.2
+/usr/bin/ld: warning: libopencv_imgcodecs.so.3.4, needed by /usr/local/lib/libopencv_highgui.so.3.4.0, may conflict with libopencv_imgcodecs.so.3.2
+[100%] Built target test_webcam
